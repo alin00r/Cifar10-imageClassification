@@ -1,6 +1,90 @@
 # Cifar10-imageClassification
 
 # Image Classification Project Documentation
+Program Screens
+
+
+
+1-	 Splash Screen
+
+
+  
+
+
+
+
+
+
+
+
+
+
+Program Screens
+
+
+
+2- Program Screen
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program Screens
+	
+
+
+2- Program Screen (Test)
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Program Screens
+	
+
+
+2- Program Screen (Test)
+
+
+  
+
+
+
+
+
+
+
+
+
+
 
 # Description
 
