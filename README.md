@@ -1,4 +1,4 @@
-# Cifar10-imageClassification
+## Cifar10-imageClassification
 
 Image Classification Project Documentation
 Program Screens
