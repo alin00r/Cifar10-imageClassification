@@ -38,11 +38,17 @@ To use the image classification program, follow these steps:
 
 # Functions/Classes
 •	new_win(): Opens the main window and handles the image classification process.
+
 •	upload_image(): Allows the user to upload an image for classification.
+
 •	show_classify_button(file_path): Displays the "Classify Image" button after an image is uploaded.
+
 •	classify(file_path): Classifies the uploaded image using the pre-trained CNN model.
+
 •	center_window(top, width, height): Centers the main window on the screen.
-•	Configuration
+
+•	Configuration.
+
 •	There are no specific configuration options for this project.
 
 # Troubleshooting
