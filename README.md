@@ -1,6 +1,6 @@
 # Cifar10-imageClassification
 
-# Image Classification Project Documentation
+Image Classification Project Documentation
 Program Screens
 
 
@@ -12,8 +12,6 @@ Program Screens
 ## 3- Program Screen (Test)
 ![image](https://github.com/alin00r/Cifar10-imageClassification/assets/74410154/08c1a501-a21e-41b0-b9b9-c1f56c38d274)
 ![image](https://github.com/alin00r/Cifar10-imageClassification/assets/74410154/8eb0c123-5899-4297-abd7-1b6fd48461a2)
-![image](https://github.com/alin00r/Cifar10-imageClassification/assets/74410154/f41d40d2-830c-4c8d-a4ef-83d566a673e7)
-![image](https://github.com/alin00r/Cifar10-imageClassification/assets/74410154/33fae3cb-89b4-444a-ad08-2d42652f9adc)
 # Description
 
 This project implements an image classification model using Convolutional Neural Networks (CNNs) to classify images into 10 different categories.
